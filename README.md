@@ -4,5 +4,5 @@ A project by Shalom Michael.
 
 # Project Structure
 
-1. Exploration - Section where algorithm is developed
-2. App - App that incorporates algorithm
+1. [Exploration](/exploration) - Section where algorithm is developed
+2. [App](/app) - App that incorporates algorithm
